@@ -1,4 +1,4 @@
-## Stats
+## Bem-Vindo!
 
 <div align="center">
   <a href="https://github.com/luizguilhermeoliveira">
